@@ -1,2 +1,3 @@
 # Hello-world
-First repository
+
+注册了很久了，但从来没自己写过，先写个中文的吧
